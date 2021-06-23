@@ -34,4 +34,4 @@ December Temperature Distribution:
 
 ![December_Ranges](https://user-images.githubusercontent.com/82347825/123020627-93a19380-d3a0-11eb-89c3-0c90ab3a6cc0.png)
 
-We can see that i whether it is summer (June) or winter (December) on Oahu, the majority of temperature observations fall close to the mean temperature with very few (if any) outliers. This realization bodes well for the proposed surf & ice cream store.
+We can see that whether it is summer (June) or winter (December) on Oahu, the majority of temperature observations fall close to the mean temperature with very few (if any) outliers. This realization bodes well for the proposed surf & ice cream store.
